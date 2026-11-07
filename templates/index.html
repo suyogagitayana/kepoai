@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Kabar OpenAI, Claude, dan Gemini, status layanan resmi, serta pengingat reset pribadi."
+    />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; connect-src 'self' https://status.openai.com https://status.claude.com https://www.google.com; img-src 'self' data:; style-src 'self'; script-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'"
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>kepoAI — Kabar &amp; status layanan</title>
+    <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <script src="assets/js/data.js" defer></script>
+    <script src="assets/js/brands.js" defer></script>
+    <script src="assets/js/health.js" defer></script>
+    <script src="assets/js/content.js" defer></script>
+    <script src="assets/js/i18n.js" defer></script>
+    <script src="assets/js/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="masthead">
+      <a class="brand" href="#overview" aria-label="kepoAI home"
+        ><img
+          class="site-mark"
+          src="assets/images/logo-mark.svg"
+          width="28"
+          height="28"
+          alt=""
+        /><span class="wordmark"
+          >kepo<span class="wordmark-ai">AI</span></span
+        ></a
+      >
+      <nav aria-label="Main navigation">
+        <a href="#overview" data-nav="overview">Overview</a>
+        <a href="#updates" data-nav="updates"
+          >Updates <span id="update-count" class="nav-count"></span
+        ></a>
+        <a href="#status" data-nav="status">Service health</a>
+        <a href="#resets" data-nav="resets">Reset tracker</a>
+        <a href="#sources" data-nav="sources">Sources</a>
+      </nav>
+      <label class="language-control"
+        ><span class="sr-only">Language</span
+        ><select id="language" aria-label="Language">
+          <option value="id" selected>ID</option>
+          <option value="en">EN</option>
+        </select></label
+      >
+      <button
+        id="theme-toggle"
+        class="theme-button"
+        aria-label="Switch appearance"
+        title="Switch appearance"
+      >
+        ◐
+      </button>
+    </header>
+    <div class="page">
+      <div class="topbar">
+        <div>
+          <span class="breadcrumb">kepoAI</span><span class="slash">/</span
+          ><span id="page-label">Overview</span>
+        </div>
+        <div class="topbar-right">
+          <span id="live-summary" role="status">Official status feeds</span
+          ><time id="today"></time>
+        </div>
+      </div>
+      <main id="main" tabindex="-1">
+        <div class="heading">
+          <div>
+            <h1 id="page-title">Overview</h1>
+            <p id="page-description">
+              Recent announcements and live status from official feeds.
+            </p>
+          </div>
+        </div>
+        <div class="content-meta">
+          <div>
+            <strong>Updated:</strong> <span id="content-updated"></span
+            ><span id="content-age" role="status"></span>
+          </div>
+          <div class="content-actions">
+            <button class="button" data-refresh-content>
+              Refresh content ↻</button
+            ><a href="#sources">Sources ↗</a>
+          </div>
+        </div>
+        <div id="view"></div>
+        <footer>
+          <span>kepoAI</span><a href="#sources">Sources &amp; coverage</a>
+        </footer>
+      </main>
+    </div>
+    <dialog id="timer-dialog" aria-labelledby="timer-dialog-title">
+      <form id="timer-form">
+        <div class="dialog-heading">
+          <h2 id="timer-dialog-title">Personal reset reminder</h2>
+          <button
+            type="button"
+            class="icon-button"
+            data-close="timer-dialog"
+            aria-label="Close dialog"
+          >
+            ×
+          </button>
+        </div>
+        <p>
+          Enter the reset time shown in your account. Reminders last for this
+          visit only and clear when the page reloads.
+        </p>
+        <label for="timer-provider">Company</label
+        ><select id="timer-provider">
+          <option value="openai">OpenAI / Codex</option>
+          <option value="claude">Claude</option>
+          <option value="gemini">Gemini</option></select
+        ><label for="timer-date"
+          >Reset date and time (your device’s local time)</label
+        ><input type="datetime-local" id="timer-date" required /><label
+          for="timer-note"
+          >Label (optional)</label
+        ><input
+          id="timer-note"
+          maxlength="80"
+          placeholder="Weekly Codex limit"
+        />
+        <p class="small" id="timer-timezone"></p>
+        <div class="dialog-actions">
+          <button type="button" class="button" data-close="timer-dialog">
+            Cancel</button
+          ><button class="button primary" type="submit">Set reminder</button>
+        </div>
+      </form>
+    </dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <noscript
+      ><div class="noscript">
+        Aktifkan JavaScript untuk kabar dan status layanan. Sumber resmi:
+        <a href="https://openai.com/news/">OpenAI</a>,
+        <a href="https://www.anthropic.com/news">Anthropic</a>,
+        <a href="https://aistudio.google.com/docs/changelog">Gemini</a>.
+      </div></noscript
+    >
+  </body>
+</html>

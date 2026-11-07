@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-05T01:39:21Z",
+  "updatedAt": "2026-11-07T16:28:06Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,160 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-504ec4b9d003b139a0",
+      "provider": "openai",
+      "date": "2026-11-06",
+      "category": "Security",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-940de5903997008457",
+      "provider": "openai",
+      "date": "2026-11-06",
+      "category": "News",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-5f6c66d06e445a7634",
+      "provider": "gemini",
+      "date": "2026-11-06",
+      "category": "API update",
+      "title": "Gemini Embedding 2 Preview deprecation",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-06-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-8af9aa926bd53ff5dd",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "News",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-6de1a3cb46070ed6c8",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "News",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-08697f9fb54aa5c718",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "Model release",
+      "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Official model launch announcement. Open the source for details.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-68aba6feb22d82dc36",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "News",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/franklin-templeton",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-7cd686f0d3a85cd710",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "News",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-2d6f8d89ef4eb4b385",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "News",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-cc34febcfacb51a99d",
+      "provider": "openai",
+      "date": "2026-11-05",
+      "category": "Company",
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-90ee19d620c9938602",
+      "provider": "gemini",
+      "date": "2026-11-05",
+      "category": "API update",
+      "title": "More file types and file URIs in function responses",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-05-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-5db0ace56ead3bc49f",
+      "provider": "gemini",
+      "date": "2026-11-05",
+      "category": "API update",
+      "title": "Gemini Omni 1.2 Flash generally available (GA)",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-05-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-48881f0a91dacce3bc",
+      "provider": "gemini",
+      "date": "2026-11-05",
+      "category": "API update",
+      "title": "Gemini Omni 1.1 Flash automatic routing notice",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-05-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-d7a542a9c6cca59f7b",
+      "provider": "gemini",
+      "date": "2026-11-05",
+      "category": "API update",
+      "title": "Expanded Office and OpenDocument file support",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-05-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
     {
       "id": "auto-openai-169e630821ce1cffec",
       "provider": "openai",
@@ -1592,6 +1746,17 @@ window.MODEL_WATCH_DATA = {
       "summary": "Official model launch announcement. Open the source for details.",
       "url": "https://aistudio.google.com/docs/changelog#09-15-2026",
       "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-claude-4d460f0708acb890f9",
+      "provider": "claude",
+      "date": "2026-09-15",
+      "category": "Model release",
+      "title": "Introducing Claude Mythos and Fable 5.1",
+      "summary": "Official model launch announcement. Open the source for details.",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Anthropic",
       "automatic": true
     },
     {
@@ -3140,7 +3305,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-05T01:39:21Z",
+    "generatedAt": "2026-11-07T16:28:06Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3148,9 +3313,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-05T01:39:20Z",
+        "checkedAt": "2026-11-07T16:28:05Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-05T01:39:20Z",
+        "lastSuccessAt": "2026-11-07T16:28:05Z",
         "records": 100,
         "error": null
       },
@@ -3159,9 +3324,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-05T01:39:20Z",
+        "checkedAt": "2026-11-07T16:28:05Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-05T01:39:20Z",
+        "lastSuccessAt": "2026-11-07T16:28:05Z",
         "records": 24,
         "error": null
       },
@@ -3170,9 +3335,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-05T01:39:21Z",
+        "checkedAt": "2026-11-07T16:28:05Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-05T01:39:21Z",
+        "lastSuccessAt": "2026-11-07T16:28:05Z",
         "records": 100,
         "error": null
       },
@@ -3181,9 +3346,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-05T01:39:21Z",
+        "checkedAt": "2026-11-07T16:28:06Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-05T01:39:21Z",
+        "lastSuccessAt": "2026-11-07T16:28:06Z",
         "records": 71,
         "error": null
       }

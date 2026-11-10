@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-07T16:28:06Z",
+  "updatedAt": "2026-11-10T01:34:43Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,61 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-b5bb317bf0f71dd456",
+      "provider": "openai",
+      "date": "2026-11-09",
+      "category": "News",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/kuken",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-8cbf3e8363b3a3fec7",
+      "provider": "openai",
+      "date": "2026-11-09",
+      "category": "Safety",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-e07ebb511475fc7c7d",
+      "provider": "openai",
+      "date": "2026-11-09",
+      "category": "News",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-628e7448c16cb25ede",
+      "provider": "openai",
+      "date": "2026-11-09",
+      "category": "News",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-claude-6d06ce27bcbcf1279f",
+      "provider": "claude",
+      "date": "2026-11-09",
+      "category": "Model release",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "summary": "Official model launch announcement. Open the source for details.",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Anthropic",
+      "automatic": true
+    },
     {
       "id": "auto-openai-504ec4b9d003b139a0",
       "provider": "openai",
@@ -3305,7 +3360,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-07T16:28:06Z",
+    "generatedAt": "2026-11-10T01:34:43Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3313,9 +3368,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-07T16:28:05Z",
+        "checkedAt": "2026-11-10T01:34:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-07T16:28:05Z",
+        "lastSuccessAt": "2026-11-10T01:34:41Z",
         "records": 100,
         "error": null
       },
@@ -3324,9 +3379,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-07T16:28:05Z",
+        "checkedAt": "2026-11-10T01:34:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-07T16:28:05Z",
+        "lastSuccessAt": "2026-11-10T01:34:41Z",
         "records": 24,
         "error": null
       },
@@ -3335,9 +3390,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-07T16:28:05Z",
+        "checkedAt": "2026-11-10T01:34:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-07T16:28:05Z",
+        "lastSuccessAt": "2026-11-10T01:34:41Z",
         "records": 100,
         "error": null
       },
@@ -3346,10 +3401,10 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-07T16:28:06Z",
+        "checkedAt": "2026-11-10T01:34:43Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-07T16:28:06Z",
-        "records": 71,
+        "lastSuccessAt": "2026-11-10T01:34:43Z",
+        "records": 54,
         "error": null
       }
     ]

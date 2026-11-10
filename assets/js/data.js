@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-10T09:54:21Z",
+  "updatedAt": "2026-11-10T17:53:35Z",
   "providers": [
     {
       "id": "openai",
@@ -55,6 +55,28 @@ window.MODEL_WATCH_DATA = {
   ],
   "updates": [
     {
+      "id": "auto-openai-e36c924c9995b2701d",
+      "provider": "openai",
+      "date": "2026-11-10",
+      "category": "Company",
+      "title": "Work at the Frontier: AI\u2019s effect on freelance work",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-18a0b9ad215f098946",
+      "provider": "openai",
+      "date": "2026-11-10",
+      "category": "Company",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-f1b451c241c4f427c1",
       "provider": "openai",
       "date": "2026-11-10",
@@ -63,6 +85,28 @@ window.MODEL_WATCH_DATA = {
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-265e8dfcce10ec1212",
+      "provider": "gemini",
+      "date": "2026-11-10",
+      "category": "Model release",
+      "title": "Gemini 4 Carbon (gemini-4-carbon) generally available (GA)",
+      "summary": "Official model launch announcement. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-10-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-claude-6840911d82a0e8d541",
+      "provider": "claude",
+      "date": "2026-11-10",
+      "category": "News",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "source": "Anthropic",
       "automatic": true
     },
     {
@@ -3371,7 +3415,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-10T09:54:21Z",
+    "generatedAt": "2026-11-10T17:53:35Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3379,9 +3423,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-10T09:54:20Z",
+        "checkedAt": "2026-11-10T17:53:34Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T09:54:20Z",
+        "lastSuccessAt": "2026-11-10T17:53:34Z",
         "records": 100,
         "error": null
       },
@@ -3390,9 +3434,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-10T09:54:20Z",
+        "checkedAt": "2026-11-10T17:53:34Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T09:54:20Z",
+        "lastSuccessAt": "2026-11-10T17:53:34Z",
         "records": 24,
         "error": null
       },
@@ -3401,9 +3445,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-10T09:54:20Z",
+        "checkedAt": "2026-11-10T17:53:34Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T09:54:20Z",
+        "lastSuccessAt": "2026-11-10T17:53:34Z",
         "records": 100,
         "error": null
       },
@@ -3412,9 +3456,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-10T09:54:21Z",
+        "checkedAt": "2026-11-10T17:53:35Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T09:54:21Z",
+        "lastSuccessAt": "2026-11-10T17:53:35Z",
         "records": 71,
         "error": null
       }

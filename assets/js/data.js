@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-10T17:53:35Z",
+  "updatedAt": "2026-11-10T23:25:03Z",
   "providers": [
     {
       "id": "openai",
@@ -62,6 +62,17 @@ window.MODEL_WATCH_DATA = {
       "title": "Work at the Frontier: AI\u2019s effect on freelance work",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-272140bcb694b462a4",
+      "provider": "openai",
+      "date": "2026-11-10",
+      "category": "News",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "source": "OpenAI",
       "automatic": true
     },
@@ -3415,7 +3426,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-10T17:53:35Z",
+    "generatedAt": "2026-11-10T23:25:03Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3423,9 +3434,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-10T17:53:34Z",
+        "checkedAt": "2026-11-10T23:25:02Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T17:53:34Z",
+        "lastSuccessAt": "2026-11-10T23:25:02Z",
         "records": 100,
         "error": null
       },
@@ -3434,9 +3445,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-10T17:53:34Z",
+        "checkedAt": "2026-11-10T23:25:02Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T17:53:34Z",
+        "lastSuccessAt": "2026-11-10T23:25:02Z",
         "records": 24,
         "error": null
       },
@@ -3445,9 +3456,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-10T17:53:34Z",
+        "checkedAt": "2026-11-10T23:25:02Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T17:53:34Z",
+        "lastSuccessAt": "2026-11-10T23:25:02Z",
         "records": 100,
         "error": null
       },
@@ -3456,9 +3467,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-10T17:53:35Z",
+        "checkedAt": "2026-11-10T23:25:03Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T17:53:35Z",
+        "lastSuccessAt": "2026-11-10T23:25:03Z",
         "records": 71,
         "error": null
       }

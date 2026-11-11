@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-10T23:25:03Z",
+  "updatedAt": "2026-11-11T06:28:16Z",
   "providers": [
     {
       "id": "openai",
@@ -55,6 +55,17 @@ window.MODEL_WATCH_DATA = {
   ],
   "updates": [
     {
+      "id": "auto-openai-fe78df6ce5c38a4af2",
+      "provider": "openai",
+      "date": "2026-11-11",
+      "category": "Company",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-e36c924c9995b2701d",
       "provider": "openai",
       "date": "2026-11-10",
@@ -84,6 +95,17 @@ window.MODEL_WATCH_DATA = {
       "title": "Helping caregivers use AI in everyday life",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-f4d713317aee0100de",
+      "provider": "openai",
+      "date": "2026-11-10",
+      "category": "News",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/cogent-security",
       "source": "OpenAI",
       "automatic": true
     },
@@ -3426,7 +3448,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-10T23:25:03Z",
+    "generatedAt": "2026-11-11T06:28:16Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3434,9 +3456,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-10T23:25:02Z",
+        "checkedAt": "2026-11-11T06:28:16Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T23:25:02Z",
+        "lastSuccessAt": "2026-11-11T06:28:16Z",
         "records": 100,
         "error": null
       },
@@ -3445,9 +3467,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-10T23:25:02Z",
+        "checkedAt": "2026-11-11T06:28:16Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T23:25:02Z",
+        "lastSuccessAt": "2026-11-11T06:28:16Z",
         "records": 24,
         "error": null
       },
@@ -3456,9 +3478,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-10T23:25:02Z",
+        "checkedAt": "2026-11-11T06:28:16Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T23:25:02Z",
+        "lastSuccessAt": "2026-11-11T06:28:16Z",
         "records": 100,
         "error": null
       },
@@ -3467,9 +3489,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-10T23:25:03Z",
+        "checkedAt": "2026-11-11T06:28:16Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-10T23:25:03Z",
+        "lastSuccessAt": "2026-11-11T06:28:16Z",
         "records": 71,
         "error": null
       }

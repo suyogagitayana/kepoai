@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-11T15:16:43Z",
+  "updatedAt": "2026-11-11T22:02:38Z",
   "providers": [
     {
       "id": "openai",
@@ -55,6 +55,17 @@ window.MODEL_WATCH_DATA = {
   ],
   "updates": [
     {
+      "id": "auto-openai-a0be2408b0af8ff6b6",
+      "provider": "openai",
+      "date": "2026-11-11",
+      "category": "News",
+      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-fe78df6ce5c38a4af2",
       "provider": "openai",
       "date": "2026-11-11",
@@ -63,6 +74,17 @@ window.MODEL_WATCH_DATA = {
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-7beba53627b77f6df8",
+      "provider": "gemini",
+      "date": "2026-11-11",
+      "category": "API update",
+      "title": "Gemini Decision and the Decisions API",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-11-2026",
+      "source": "Gemini API release notes",
       "automatic": true
     },
     {
@@ -3459,7 +3481,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-11T15:16:43Z",
+    "generatedAt": "2026-11-11T22:02:38Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3467,9 +3489,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-11T15:16:38Z",
+        "checkedAt": "2026-11-11T22:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T15:16:38Z",
+        "lastSuccessAt": "2026-11-11T22:02:38Z",
         "records": 100,
         "error": null
       },
@@ -3478,9 +3500,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-11T15:16:43Z",
+        "checkedAt": "2026-11-11T22:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T15:16:43Z",
+        "lastSuccessAt": "2026-11-11T22:02:38Z",
         "records": 24,
         "error": null
       },
@@ -3489,9 +3511,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-11T15:16:43Z",
+        "checkedAt": "2026-11-11T22:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T15:16:43Z",
+        "lastSuccessAt": "2026-11-11T22:02:38Z",
         "records": 100,
         "error": null
       },
@@ -3500,9 +3522,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-11T15:16:38Z",
+        "checkedAt": "2026-11-11T22:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T15:16:38Z",
+        "lastSuccessAt": "2026-11-11T22:02:38Z",
         "records": 71,
         "error": null
       }

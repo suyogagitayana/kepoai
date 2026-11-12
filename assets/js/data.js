@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-11T22:02:38Z",
+  "updatedAt": "2026-11-12T03:02:38Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,17 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-76a3ea15daf0581660",
+      "provider": "openai",
+      "date": "2026-11-12",
+      "category": "News",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-a0be2408b0af8ff6b6",
       "provider": "openai",
@@ -3481,7 +3492,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-11T22:02:38Z",
+    "generatedAt": "2026-11-12T03:02:38Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3489,9 +3500,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-11T22:02:38Z",
+        "checkedAt": "2026-11-12T03:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T22:02:38Z",
+        "lastSuccessAt": "2026-11-12T03:02:38Z",
         "records": 100,
         "error": null
       },
@@ -3500,9 +3511,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-11T22:02:38Z",
+        "checkedAt": "2026-11-12T03:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T22:02:38Z",
+        "lastSuccessAt": "2026-11-12T03:02:38Z",
         "records": 24,
         "error": null
       },
@@ -3511,9 +3522,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-11T22:02:38Z",
+        "checkedAt": "2026-11-12T03:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T22:02:38Z",
+        "lastSuccessAt": "2026-11-12T03:02:38Z",
         "records": 100,
         "error": null
       },
@@ -3522,9 +3533,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-11T22:02:38Z",
+        "checkedAt": "2026-11-12T03:02:38Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-11T22:02:38Z",
+        "lastSuccessAt": "2026-11-12T03:02:38Z",
         "records": 71,
         "error": null
       }

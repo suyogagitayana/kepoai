@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-12T11:18:14Z",
+  "updatedAt": "2026-11-12T19:56:58Z",
   "providers": [
     {
       "id": "openai",
@@ -88,6 +88,17 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
+      "id": "auto-gemini-13b799374c0548c22b",
+      "provider": "gemini",
+      "date": "2026-11-12",
+      "category": "Model release",
+      "title": "Gemini 4 Hydrogen (gemini-4-hydrogen) generally available (GA)",
+      "summary": "Official model launch announcement. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-12-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-a0be2408b0af8ff6b6",
       "provider": "openai",
       "date": "2026-11-11",
@@ -110,11 +121,11 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
-      "id": "auto-gemini-7beba53627b77f6df8",
+      "id": "auto-gemini-ee5347fae38887659a",
       "provider": "gemini",
       "date": "2026-11-11",
       "category": "API update",
-      "title": "Gemini Decision and the Decisions API",
+      "title": "Gemini Decision 1 and the Decisions API",
       "summary": "Official release notes update. Open the source for details.",
       "url": "https://aistudio.google.com/docs/changelog#11-11-2026",
       "source": "Gemini API release notes",
@@ -3514,7 +3525,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-12T11:18:14Z",
+    "generatedAt": "2026-11-12T19:56:58Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3522,9 +3533,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-12T11:18:13Z",
+        "checkedAt": "2026-11-12T19:56:57Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T11:18:13Z",
+        "lastSuccessAt": "2026-11-12T19:56:57Z",
         "records": 100,
         "error": null
       },
@@ -3533,9 +3544,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-12T11:18:13Z",
+        "checkedAt": "2026-11-12T19:56:57Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T11:18:13Z",
+        "lastSuccessAt": "2026-11-12T19:56:57Z",
         "records": 24,
         "error": null
       },
@@ -3544,9 +3555,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-12T11:18:13Z",
+        "checkedAt": "2026-11-12T19:56:57Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T11:18:13Z",
+        "lastSuccessAt": "2026-11-12T19:56:57Z",
         "records": 100,
         "error": null
       },
@@ -3555,9 +3566,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-12T11:18:14Z",
+        "checkedAt": "2026-11-12T19:56:58Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T11:18:14Z",
+        "lastSuccessAt": "2026-11-12T19:56:58Z",
         "records": 71,
         "error": null
       }

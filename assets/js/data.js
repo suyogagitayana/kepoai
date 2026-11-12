@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-12T03:02:38Z",
+  "updatedAt": "2026-11-12T11:18:14Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,28 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-2f34c1942d4e64e3ec",
+      "provider": "openai",
+      "date": "2026-11-12",
+      "category": "News",
+      "title": "Supporting research on AI and children\u2019s safety",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-8d6c5d2a57feaf3f89",
+      "provider": "openai",
+      "date": "2026-11-12",
+      "category": "News",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-76a3ea15daf0581660",
       "provider": "openai",
@@ -3492,7 +3514,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-12T03:02:38Z",
+    "generatedAt": "2026-11-12T11:18:14Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3500,9 +3522,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-12T03:02:38Z",
+        "checkedAt": "2026-11-12T11:18:13Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T03:02:38Z",
+        "lastSuccessAt": "2026-11-12T11:18:13Z",
         "records": 100,
         "error": null
       },
@@ -3511,9 +3533,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-12T03:02:38Z",
+        "checkedAt": "2026-11-12T11:18:13Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T03:02:38Z",
+        "lastSuccessAt": "2026-11-12T11:18:13Z",
         "records": 24,
         "error": null
       },
@@ -3522,9 +3544,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-12T03:02:38Z",
+        "checkedAt": "2026-11-12T11:18:13Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T03:02:38Z",
+        "lastSuccessAt": "2026-11-12T11:18:13Z",
         "records": 100,
         "error": null
       },
@@ -3533,9 +3555,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-12T03:02:38Z",
+        "checkedAt": "2026-11-12T11:18:14Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T03:02:38Z",
+        "lastSuccessAt": "2026-11-12T11:18:14Z",
         "records": 71,
         "error": null
       }

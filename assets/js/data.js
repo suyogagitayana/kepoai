@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-12T19:56:58Z",
+  "updatedAt": "2026-11-13T01:06:47Z",
   "providers": [
     {
       "id": "openai",
@@ -66,6 +66,17 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
+      "id": "auto-openai-9d0e24394036e1eabf",
+      "provider": "openai",
+      "date": "2026-11-12",
+      "category": "News",
+      "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-8d6c5d2a57feaf3f89",
       "provider": "openai",
       "date": "2026-11-12",
@@ -73,6 +84,17 @@ window.MODEL_WATCH_DATA = {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-0c9d3220d8c7ec97fb",
+      "provider": "openai",
+      "date": "2026-11-12",
+      "category": "News",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/gondola",
       "source": "OpenAI",
       "automatic": true
     },
@@ -2884,6 +2906,15 @@ window.MODEL_WATCH_DATA = {
   ],
   "resets": [
     {
+      "date": "2026-11-12T21:59:39Z",
+      "type": "Banked reset",
+      "title": "Codex banked reset announcement",
+      "source": "AI IDE List archive",
+      "url": "https://aiidelist.com/codex-reset#2120999993079451919",
+      "announcementUrl": "https://x.com/thsottiaux/status/2120999993079451919",
+      "note": "Archived X post. Third-party archive; confirm timing and eligibility in the original announcement."
+    },
+    {
       "date": "2026-11-01T23:27:20Z",
       "type": "Banked reset",
       "title": "Codex banked reset announcement",
@@ -3525,7 +3556,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-12T19:56:58Z",
+    "generatedAt": "2026-11-13T01:06:47Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3533,9 +3564,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-12T19:56:57Z",
+        "checkedAt": "2026-11-13T01:06:47Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T19:56:57Z",
+        "lastSuccessAt": "2026-11-13T01:06:47Z",
         "records": 100,
         "error": null
       },
@@ -3544,9 +3575,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-12T19:56:57Z",
+        "checkedAt": "2026-11-13T01:06:47Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T19:56:57Z",
+        "lastSuccessAt": "2026-11-13T01:06:47Z",
         "records": 24,
         "error": null
       },
@@ -3555,9 +3586,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-12T19:56:57Z",
+        "checkedAt": "2026-11-13T01:06:47Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T19:56:57Z",
+        "lastSuccessAt": "2026-11-13T01:06:47Z",
         "records": 100,
         "error": null
       },
@@ -3566,10 +3597,10 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-12T19:56:58Z",
+        "checkedAt": "2026-11-13T01:06:47Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-12T19:56:58Z",
-        "records": 71,
+        "lastSuccessAt": "2026-11-13T01:06:47Z",
+        "records": 72,
         "error": null
       }
     ]

@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-13T01:06:47Z",
+  "updatedAt": "2026-11-13T16:28:41Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,17 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-84f80e312fc05776da",
+      "provider": "openai",
+      "date": "2026-11-13",
+      "category": "News",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-2f34c1942d4e64e3ec",
       "provider": "openai",
@@ -3556,7 +3567,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-13T01:06:47Z",
+    "generatedAt": "2026-11-13T16:28:41Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3564,9 +3575,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-13T01:06:47Z",
+        "checkedAt": "2026-11-13T16:28:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T01:06:47Z",
+        "lastSuccessAt": "2026-11-13T16:28:40Z",
         "records": 100,
         "error": null
       },
@@ -3575,9 +3586,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-13T01:06:47Z",
+        "checkedAt": "2026-11-13T16:28:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T01:06:47Z",
+        "lastSuccessAt": "2026-11-13T16:28:41Z",
         "records": 24,
         "error": null
       },
@@ -3586,9 +3597,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-13T01:06:47Z",
+        "checkedAt": "2026-11-13T16:28:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T01:06:47Z",
+        "lastSuccessAt": "2026-11-13T16:28:41Z",
         "records": 100,
         "error": null
       },
@@ -3597,9 +3608,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-13T01:06:47Z",
+        "checkedAt": "2026-11-13T16:28:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T01:06:47Z",
+        "lastSuccessAt": "2026-11-13T16:28:41Z",
         "records": 72,
         "error": null
       }

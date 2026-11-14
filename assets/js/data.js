@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-13T16:28:41Z",
+  "updatedAt": "2026-11-14T03:19:41Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,17 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-d01fbb3a0bfa00da4a",
+      "provider": "openai",
+      "date": "2026-11-13",
+      "category": "News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-84f80e312fc05776da",
       "provider": "openai",
@@ -3567,7 +3578,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-13T16:28:41Z",
+    "generatedAt": "2026-11-14T03:19:41Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3575,9 +3586,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-13T16:28:40Z",
+        "checkedAt": "2026-11-14T03:19:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T16:28:40Z",
+        "lastSuccessAt": "2026-11-14T03:19:40Z",
         "records": 100,
         "error": null
       },
@@ -3586,9 +3597,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-13T16:28:41Z",
+        "checkedAt": "2026-11-14T03:19:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T16:28:41Z",
+        "lastSuccessAt": "2026-11-14T03:19:40Z",
         "records": 24,
         "error": null
       },
@@ -3597,9 +3608,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-13T16:28:41Z",
+        "checkedAt": "2026-11-14T03:19:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T16:28:41Z",
+        "lastSuccessAt": "2026-11-14T03:19:40Z",
         "records": 100,
         "error": null
       },
@@ -3608,9 +3619,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-13T16:28:41Z",
+        "checkedAt": "2026-11-14T03:19:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-13T16:28:41Z",
+        "lastSuccessAt": "2026-11-14T03:19:41Z",
         "records": 72,
         "error": null
       }

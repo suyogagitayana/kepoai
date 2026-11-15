@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-14T03:19:41Z",
+  "updatedAt": "2026-11-15T22:51:23Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,28 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-64a63ed88a652558d9",
+      "provider": "openai",
+      "date": "2026-11-15",
+      "category": "News",
+      "title": "Our new blog for science",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-c6936ab971bc6f1dcf",
+      "provider": "openai",
+      "date": "2026-11-15",
+      "category": "News",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-d01fbb3a0bfa00da4a",
       "provider": "openai",
@@ -3578,7 +3600,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-14T03:19:41Z",
+    "generatedAt": "2026-11-15T22:51:23Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3586,9 +3608,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-14T03:19:40Z",
+        "checkedAt": "2026-11-15T22:51:22Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-14T03:19:40Z",
+        "lastSuccessAt": "2026-11-15T22:51:22Z",
         "records": 100,
         "error": null
       },
@@ -3597,9 +3619,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-14T03:19:40Z",
+        "checkedAt": "2026-11-15T22:51:22Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-14T03:19:40Z",
+        "lastSuccessAt": "2026-11-15T22:51:22Z",
         "records": 24,
         "error": null
       },
@@ -3608,9 +3630,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-14T03:19:40Z",
+        "checkedAt": "2026-11-15T22:51:22Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-14T03:19:40Z",
+        "lastSuccessAt": "2026-11-15T22:51:22Z",
         "records": 100,
         "error": null
       },
@@ -3619,9 +3641,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-14T03:19:41Z",
+        "checkedAt": "2026-11-15T22:51:23Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-14T03:19:41Z",
+        "lastSuccessAt": "2026-11-15T22:51:23Z",
         "records": 72,
         "error": null
       }

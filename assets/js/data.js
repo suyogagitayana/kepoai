@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-16T11:25:31Z",
+  "updatedAt": "2026-11-16T22:07:35Z",
   "providers": [
     {
       "id": "openai",
@@ -55,6 +55,61 @@ window.MODEL_WATCH_DATA = {
   ],
   "updates": [
     {
+      "id": "auto-openai-4daeccbf3d2c57347f",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "News",
+      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-2e7ab2c578b14a6b62",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "Safety",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-f0f1659e3431a9f753",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "Research",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-3122bd69bac4d2b421",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "Safety",
+      "title": "Our first phase of embedded assessments",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-95e0ef7568b5f879f1",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "News",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-d01d6193f66c32202e",
       "provider": "openai",
       "date": "2026-11-16",
@@ -62,6 +117,39 @@ window.MODEL_WATCH_DATA = {
       "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-b834b3600036d7e4c6",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "Research",
+      "title": "Broadening access to AI for scientists",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-76924f1cbac66a49e9",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "News",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-be6d87dfb3b898126f",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "News",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "source": "OpenAI",
       "automatic": true
     },
@@ -3611,7 +3699,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-16T11:25:31Z",
+    "generatedAt": "2026-11-16T22:07:35Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3619,9 +3707,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-16T11:25:28Z",
+        "checkedAt": "2026-11-16T22:07:34Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T11:25:28Z",
+        "lastSuccessAt": "2026-11-16T22:07:34Z",
         "records": 100,
         "error": null
       },
@@ -3630,9 +3718,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-16T11:25:28Z",
+        "checkedAt": "2026-11-16T22:07:35Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T11:25:28Z",
+        "lastSuccessAt": "2026-11-16T22:07:35Z",
         "records": 24,
         "error": null
       },
@@ -3641,9 +3729,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-16T11:25:28Z",
+        "checkedAt": "2026-11-16T22:07:34Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T11:25:28Z",
+        "lastSuccessAt": "2026-11-16T22:07:34Z",
         "records": 100,
         "error": null
       },
@@ -3652,9 +3740,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-16T11:25:31Z",
+        "checkedAt": "2026-11-16T22:07:35Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T11:25:31Z",
+        "lastSuccessAt": "2026-11-16T22:07:35Z",
         "records": 72,
         "error": null
       }

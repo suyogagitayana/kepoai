@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-15T22:51:23Z",
+  "updatedAt": "2026-11-16T11:25:31Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,17 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-d01d6193f66c32202e",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "Company",
+      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-64a63ed88a652558d9",
       "provider": "openai",
@@ -2816,11 +2827,11 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
-      "id": "auto-gemini-5488b54dfaaac099d5",
+      "id": "auto-gemini-6386e429c0baec0beb",
       "provider": "gemini",
       "date": "2025-12-09",
       "category": "API update",
-      "title": "The following Gemini Live API models are now shut down: - gemini-2.0-flash-live-001",
+      "title": "The following Gemini Live API models are now shut down",
       "summary": "Official release notes update. Open the source for details.",
       "url": "https://aistudio.google.com/docs/changelog#12-09-2025",
       "source": "Gemini API release notes",
@@ -3600,7 +3611,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-15T22:51:23Z",
+    "generatedAt": "2026-11-16T11:25:31Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3608,9 +3619,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-15T22:51:22Z",
+        "checkedAt": "2026-11-16T11:25:28Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-15T22:51:22Z",
+        "lastSuccessAt": "2026-11-16T11:25:28Z",
         "records": 100,
         "error": null
       },
@@ -3619,9 +3630,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-15T22:51:22Z",
+        "checkedAt": "2026-11-16T11:25:28Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-15T22:51:22Z",
+        "lastSuccessAt": "2026-11-16T11:25:28Z",
         "records": 24,
         "error": null
       },
@@ -3630,9 +3641,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-15T22:51:22Z",
+        "checkedAt": "2026-11-16T11:25:28Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-15T22:51:22Z",
+        "lastSuccessAt": "2026-11-16T11:25:28Z",
         "records": 100,
         "error": null
       },
@@ -3641,9 +3652,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-15T22:51:23Z",
+        "checkedAt": "2026-11-16T11:25:31Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-15T22:51:23Z",
+        "lastSuccessAt": "2026-11-16T11:25:31Z",
         "records": 72,
         "error": null
       }

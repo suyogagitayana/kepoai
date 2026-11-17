@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-16T22:07:35Z",
+  "updatedAt": "2026-11-17T14:28:10Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,28 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-8e7ae298b953096ffe",
+      "provider": "openai",
+      "date": "2026-11-17",
+      "category": "News",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-e0159a2aa3b0b5a0fc",
+      "provider": "openai",
+      "date": "2026-11-17",
+      "category": "News",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-4daeccbf3d2c57347f",
       "provider": "openai",
@@ -117,6 +139,17 @@ window.MODEL_WATCH_DATA = {
       "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-82a5b135d50e4ca7bb",
+      "provider": "openai",
+      "date": "2026-11-16",
+      "category": "News",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI",
       "automatic": true
     },
@@ -3699,7 +3732,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-16T22:07:35Z",
+    "generatedAt": "2026-11-17T14:28:10Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3707,9 +3740,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-16T22:07:34Z",
+        "checkedAt": "2026-11-17T14:28:10Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T22:07:34Z",
+        "lastSuccessAt": "2026-11-17T14:28:10Z",
         "records": 100,
         "error": null
       },
@@ -3718,9 +3751,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-16T22:07:35Z",
+        "checkedAt": "2026-11-17T14:28:10Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T22:07:35Z",
+        "lastSuccessAt": "2026-11-17T14:28:10Z",
         "records": 24,
         "error": null
       },
@@ -3729,9 +3762,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-16T22:07:34Z",
+        "checkedAt": "2026-11-17T14:28:10Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T22:07:34Z",
+        "lastSuccessAt": "2026-11-17T14:28:10Z",
         "records": 100,
         "error": null
       },
@@ -3740,9 +3773,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-16T22:07:35Z",
+        "checkedAt": "2026-11-17T14:28:10Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-16T22:07:35Z",
+        "lastSuccessAt": "2026-11-17T14:28:10Z",
         "records": 72,
         "error": null
       }

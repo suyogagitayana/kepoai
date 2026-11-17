@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-17T14:28:10Z",
+  "updatedAt": "2026-11-17T22:54:16Z",
   "providers": [
     {
       "id": "openai",
@@ -73,6 +73,39 @@ window.MODEL_WATCH_DATA = {
       "title": "Introducing OpenAI for Chile",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-d02410a69626fa875b",
+      "provider": "openai",
+      "date": "2026-11-17",
+      "category": "Model release",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Official model launch announcement. Open the source for details.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-2d3b38c8c1e87fe366",
+      "provider": "openai",
+      "date": "2026-11-17",
+      "category": "News",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-bd8605a830e4aaac5b",
+      "provider": "openai",
+      "date": "2026-11-17",
+      "category": "Company",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
       "automatic": true
     },
@@ -286,6 +319,17 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
+      "id": "auto-openai-53f33ac8cd4370f6da",
+      "provider": "openai",
+      "date": "2026-11-12",
+      "category": "News",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-gemini-13b799374c0548c22b",
       "provider": "gemini",
       "date": "2026-11-12",
@@ -425,6 +469,17 @@ window.MODEL_WATCH_DATA = {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/kuken",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-1da530fc1bd0f7e87a",
+      "provider": "openai",
+      "date": "2026-11-09",
+      "category": "News",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/ads/customers/vistaprint",
       "source": "OpenAI",
       "automatic": true
     },
@@ -3732,7 +3787,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-17T14:28:10Z",
+    "generatedAt": "2026-11-17T22:54:16Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3740,9 +3795,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-17T14:28:10Z",
+        "checkedAt": "2026-11-17T22:54:14Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T14:28:10Z",
+        "lastSuccessAt": "2026-11-17T22:54:14Z",
         "records": 100,
         "error": null
       },
@@ -3751,9 +3806,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-17T14:28:10Z",
+        "checkedAt": "2026-11-17T22:54:14Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T14:28:10Z",
+        "lastSuccessAt": "2026-11-17T22:54:14Z",
         "records": 24,
         "error": null
       },
@@ -3762,9 +3817,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-17T14:28:10Z",
+        "checkedAt": "2026-11-17T22:54:14Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T14:28:10Z",
+        "lastSuccessAt": "2026-11-17T22:54:14Z",
         "records": 100,
         "error": null
       },
@@ -3773,9 +3828,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-17T14:28:10Z",
+        "checkedAt": "2026-11-17T22:54:16Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T14:28:10Z",
+        "lastSuccessAt": "2026-11-17T22:54:16Z",
         "records": 72,
         "error": null
       }

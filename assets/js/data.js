@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-18T04:26:07Z",
+  "updatedAt": "2026-11-18T14:02:37Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,28 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-1bdb267ad7581ce643",
+      "provider": "openai",
+      "date": "2026-11-18",
+      "category": "Company",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-ea306e4069ab77ba83",
+      "provider": "gemini",
+      "date": "2026-11-18",
+      "category": "API update",
+      "title": "Multimodal file processing and slicing",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-18-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
     {
       "id": "auto-openai-8e7ae298b953096ffe",
       "provider": "openai",
@@ -3798,7 +3820,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-18T04:26:07Z",
+    "generatedAt": "2026-11-18T14:02:37Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3806,9 +3828,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-18T04:26:06Z",
+        "checkedAt": "2026-11-18T14:02:36Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T04:26:06Z",
+        "lastSuccessAt": "2026-11-18T14:02:36Z",
         "records": 100,
         "error": null
       },
@@ -3817,9 +3839,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-18T04:26:06Z",
+        "checkedAt": "2026-11-18T14:02:36Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T04:26:06Z",
+        "lastSuccessAt": "2026-11-18T14:02:36Z",
         "records": 24,
         "error": null
       },
@@ -3828,9 +3850,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-18T04:26:07Z",
+        "checkedAt": "2026-11-18T14:02:36Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T04:26:07Z",
+        "lastSuccessAt": "2026-11-18T14:02:36Z",
         "records": 100,
         "error": null
       },
@@ -3839,9 +3861,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-18T04:26:07Z",
+        "checkedAt": "2026-11-18T14:02:37Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T04:26:07Z",
+        "lastSuccessAt": "2026-11-18T14:02:37Z",
         "records": 72,
         "error": null
       }

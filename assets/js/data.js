@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-17T22:54:16Z",
+  "updatedAt": "2026-11-18T04:26:07Z",
   "providers": [
     {
       "id": "openai",
@@ -107,6 +107,17 @@ window.MODEL_WATCH_DATA = {
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-f23a1390a117b7d381",
+      "provider": "gemini",
+      "date": "2026-11-17",
+      "category": "API update",
+      "title": "Voice editing in Gemini 3.5 Transcribe",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-17-2026",
+      "source": "Gemini API release notes",
       "automatic": true
     },
     {
@@ -3787,7 +3798,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-17T22:54:16Z",
+    "generatedAt": "2026-11-18T04:26:07Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3795,9 +3806,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-17T22:54:14Z",
+        "checkedAt": "2026-11-18T04:26:06Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T22:54:14Z",
+        "lastSuccessAt": "2026-11-18T04:26:06Z",
         "records": 100,
         "error": null
       },
@@ -3806,9 +3817,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-17T22:54:14Z",
+        "checkedAt": "2026-11-18T04:26:06Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T22:54:14Z",
+        "lastSuccessAt": "2026-11-18T04:26:06Z",
         "records": 24,
         "error": null
       },
@@ -3817,9 +3828,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-17T22:54:14Z",
+        "checkedAt": "2026-11-18T04:26:07Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T22:54:14Z",
+        "lastSuccessAt": "2026-11-18T04:26:07Z",
         "records": 100,
         "error": null
       },
@@ -3828,9 +3839,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-17T22:54:16Z",
+        "checkedAt": "2026-11-18T04:26:07Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-17T22:54:16Z",
+        "lastSuccessAt": "2026-11-18T04:26:07Z",
         "records": 72,
         "error": null
       }

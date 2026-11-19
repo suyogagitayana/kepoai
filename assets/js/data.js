@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-18T21:59:20Z",
+  "updatedAt": "2026-11-19T03:31:20Z",
   "providers": [
     {
       "id": "openai",
@@ -66,6 +66,17 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
+      "id": "auto-openai-15599c5b9e8ffb2b7e",
+      "provider": "openai",
+      "date": "2026-11-18",
+      "category": "Research",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-dfa07a762681be87c3",
       "provider": "openai",
       "date": "2026-11-18",
@@ -95,6 +106,17 @@ window.MODEL_WATCH_DATA = {
       "title": "Inside the Codex sandbox",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-b74532210e91527432",
+      "provider": "openai",
+      "date": "2026-11-18",
+      "category": "News",
+      "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
       "automatic": true
     },
@@ -129,6 +151,17 @@ window.MODEL_WATCH_DATA = {
       "summary": "Official model launch announcement. Open the source for details.",
       "url": "https://aistudio.google.com/docs/changelog#11-18-2026",
       "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-claude-f8bc7366c80616d3ad",
+      "provider": "claude",
+      "date": "2026-11-18",
+      "category": "News",
+      "title": "Anthropic prices initial public offering",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "Anthropic",
       "automatic": true
     },
     {
@@ -3875,7 +3908,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-18T21:59:20Z",
+    "generatedAt": "2026-11-19T03:31:20Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3883,9 +3916,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-18T21:59:19Z",
+        "checkedAt": "2026-11-19T03:31:18Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T21:59:19Z",
+        "lastSuccessAt": "2026-11-19T03:31:18Z",
         "records": 100,
         "error": null
       },
@@ -3894,9 +3927,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-18T21:59:19Z",
+        "checkedAt": "2026-11-19T03:31:18Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T21:59:19Z",
+        "lastSuccessAt": "2026-11-19T03:31:18Z",
         "records": 24,
         "error": null
       },
@@ -3905,9 +3938,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-18T21:59:19Z",
+        "checkedAt": "2026-11-19T03:31:18Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T21:59:19Z",
+        "lastSuccessAt": "2026-11-19T03:31:18Z",
         "records": 100,
         "error": null
       },
@@ -3916,9 +3949,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-18T21:59:20Z",
+        "checkedAt": "2026-11-19T03:31:20Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-18T21:59:20Z",
+        "lastSuccessAt": "2026-11-19T03:31:20Z",
         "records": 72,
         "error": null
       }

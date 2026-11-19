@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-19T03:31:20Z",
+  "updatedAt": "2026-11-19T21:39:22Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,39 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-fb7800190f6626bd85",
+      "provider": "openai",
+      "date": "2026-11-19",
+      "category": "Engineering",
+      "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-4f49ad17ed24f0e999",
+      "provider": "gemini",
+      "date": "2026-11-19",
+      "category": "API update",
+      "title": "Tool retrieval (Preview)",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-19-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
+    {
+      "id": "auto-gemini-64d150cc15171156aa",
+      "provider": "gemini",
+      "date": "2026-11-19",
+      "category": "API update",
+      "title": "Genie 4 (models/genie-4) generally available (GA)",
+      "summary": "Official release notes update. Open the source for details.",
+      "url": "https://aistudio.google.com/docs/changelog#11-19-2026",
+      "source": "Gemini API release notes",
+      "automatic": true
+    },
     {
       "id": "auto-openai-19aefb15764571330c",
       "provider": "openai",
@@ -3908,7 +3941,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-19T03:31:20Z",
+    "generatedAt": "2026-11-19T21:39:22Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3916,9 +3949,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-19T03:31:18Z",
+        "checkedAt": "2026-11-19T21:39:21Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T03:31:18Z",
+        "lastSuccessAt": "2026-11-19T21:39:21Z",
         "records": 100,
         "error": null
       },
@@ -3927,9 +3960,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-19T03:31:18Z",
+        "checkedAt": "2026-11-19T21:39:21Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T03:31:18Z",
+        "lastSuccessAt": "2026-11-19T21:39:21Z",
         "records": 24,
         "error": null
       },
@@ -3938,9 +3971,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-19T03:31:18Z",
+        "checkedAt": "2026-11-19T21:39:21Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T03:31:18Z",
+        "lastSuccessAt": "2026-11-19T21:39:21Z",
         "records": 100,
         "error": null
       },
@@ -3949,9 +3982,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-19T03:31:20Z",
+        "checkedAt": "2026-11-19T21:39:22Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T03:31:20Z",
+        "lastSuccessAt": "2026-11-19T21:39:22Z",
         "records": 72,
         "error": null
       }

@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-20T12:56:50Z",
+  "updatedAt": "2026-11-20T21:08:37Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,39 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-2dcb4c06e54f718662",
+      "provider": "openai",
+      "date": "2026-11-20",
+      "category": "News",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-7961a5aefa1474c680",
+      "provider": "openai",
+      "date": "2026-11-20",
+      "category": "News",
+      "title": "Combatting adversarial distillation",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-60cea38741f4dd1c8b",
+      "provider": "openai",
+      "date": "2026-11-20",
+      "category": "Research",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-claude-8643594dd3dd2d48df",
       "provider": "claude",
@@ -3996,7 +4029,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-20T12:56:50Z",
+    "generatedAt": "2026-11-20T21:08:37Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -4004,9 +4037,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-20T12:56:49Z",
+        "checkedAt": "2026-11-20T21:08:36Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T12:56:49Z",
+        "lastSuccessAt": "2026-11-20T21:08:36Z",
         "records": 100,
         "error": null
       },
@@ -4015,9 +4048,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-20T12:56:49Z",
+        "checkedAt": "2026-11-20T21:08:36Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T12:56:49Z",
+        "lastSuccessAt": "2026-11-20T21:08:36Z",
         "records": 24,
         "error": null
       },
@@ -4026,9 +4059,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-20T12:56:50Z",
+        "checkedAt": "2026-11-20T21:08:36Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T12:56:50Z",
+        "lastSuccessAt": "2026-11-20T21:08:36Z",
         "records": 100,
         "error": null
       },
@@ -4037,9 +4070,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-20T12:56:50Z",
+        "checkedAt": "2026-11-20T21:08:37Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T12:56:50Z",
+        "lastSuccessAt": "2026-11-20T21:08:37Z",
         "records": 72,
         "error": null
       }

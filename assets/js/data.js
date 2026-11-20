@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-20T03:20:03Z",
+  "updatedAt": "2026-11-20T12:56:50Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,17 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-claude-8643594dd3dd2d48df",
+      "provider": "claude",
+      "date": "2026-11-20",
+      "category": "News",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "source": "Anthropic",
+      "automatic": true
+    },
     {
       "id": "auto-openai-41fc07ce815f8d31a8",
       "provider": "openai",
@@ -121,11 +132,11 @@ window.MODEL_WATCH_DATA = {
       "automatic": true
     },
     {
-      "id": "auto-gemini-64d150cc15171156aa",
+      "id": "auto-gemini-598c4f86642e3589ab",
       "provider": "gemini",
       "date": "2026-11-19",
       "category": "API update",
-      "title": "Genie 4 (models/genie-4) generally available (GA)",
+      "title": "Genie 4 (genie-4) generally available (GA)",
       "summary": "Official release notes update. Open the source for details.",
       "url": "https://aistudio.google.com/docs/changelog#11-19-2026",
       "source": "Gemini API release notes",
@@ -3985,7 +3996,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-20T03:20:03Z",
+    "generatedAt": "2026-11-20T12:56:50Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3993,9 +4004,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-20T03:20:01Z",
+        "checkedAt": "2026-11-20T12:56:49Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T03:20:01Z",
+        "lastSuccessAt": "2026-11-20T12:56:49Z",
         "records": 100,
         "error": null
       },
@@ -4004,9 +4015,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-20T03:20:02Z",
+        "checkedAt": "2026-11-20T12:56:49Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T03:20:02Z",
+        "lastSuccessAt": "2026-11-20T12:56:49Z",
         "records": 24,
         "error": null
       },
@@ -4015,9 +4026,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-20T03:20:01Z",
+        "checkedAt": "2026-11-20T12:56:50Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T03:20:01Z",
+        "lastSuccessAt": "2026-11-20T12:56:50Z",
         "records": 100,
         "error": null
       },
@@ -4026,9 +4037,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-20T03:20:03Z",
+        "checkedAt": "2026-11-20T12:56:50Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T03:20:03Z",
+        "lastSuccessAt": "2026-11-20T12:56:50Z",
         "records": 72,
         "error": null
       }

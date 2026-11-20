@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-19T21:39:22Z",
+  "updatedAt": "2026-11-20T03:20:03Z",
   "providers": [
     {
       "id": "openai",
@@ -55,6 +55,17 @@ window.MODEL_WATCH_DATA = {
   ],
   "updates": [
     {
+      "id": "auto-openai-41fc07ce815f8d31a8",
+      "provider": "openai",
+      "date": "2026-11-19",
+      "category": "News",
+      "title": "See PR scans in action",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
       "id": "auto-openai-fb7800190f6626bd85",
       "provider": "openai",
       "date": "2026-11-19",
@@ -62,6 +73,39 @@ window.MODEL_WATCH_DATA = {
       "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-731d832847c66d006b",
+      "provider": "openai",
+      "date": "2026-11-19",
+      "category": "News",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-aeec15c6f79b789a25",
+      "provider": "openai",
+      "date": "2026-11-19",
+      "category": "News",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-b93a364e0f520c311e",
+      "provider": "openai",
+      "date": "2026-11-19",
+      "category": "News",
+      "title": "Deploying Daybreak Red",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI",
       "automatic": true
     },
@@ -3941,7 +3985,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-19T21:39:22Z",
+    "generatedAt": "2026-11-20T03:20:03Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -3949,9 +3993,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-19T21:39:21Z",
+        "checkedAt": "2026-11-20T03:20:01Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T21:39:21Z",
+        "lastSuccessAt": "2026-11-20T03:20:01Z",
         "records": 100,
         "error": null
       },
@@ -3960,9 +4004,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-19T21:39:21Z",
+        "checkedAt": "2026-11-20T03:20:02Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T21:39:21Z",
+        "lastSuccessAt": "2026-11-20T03:20:02Z",
         "records": 24,
         "error": null
       },
@@ -3971,9 +4015,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-19T21:39:21Z",
+        "checkedAt": "2026-11-20T03:20:01Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T21:39:21Z",
+        "lastSuccessAt": "2026-11-20T03:20:01Z",
         "records": 100,
         "error": null
       },
@@ -3982,9 +4026,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-19T21:39:22Z",
+        "checkedAt": "2026-11-20T03:20:03Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-19T21:39:22Z",
+        "lastSuccessAt": "2026-11-20T03:20:03Z",
         "records": 72,
         "error": null
       }

@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-20T21:08:37Z",
+  "updatedAt": "2026-11-22T21:49:09Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,17 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-65ce7ff58e6a17960c",
+      "provider": "openai",
+      "date": "2026-11-22",
+      "category": "Research",
+      "title": "Perplexity and Intelligence",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-2dcb4c06e54f718662",
       "provider": "openai",
@@ -4029,7 +4040,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-20T21:08:37Z",
+    "generatedAt": "2026-11-22T21:49:09Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -4037,9 +4048,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-20T21:08:36Z",
+        "checkedAt": "2026-11-22T21:49:08Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T21:08:36Z",
+        "lastSuccessAt": "2026-11-22T21:49:08Z",
         "records": 100,
         "error": null
       },
@@ -4048,9 +4059,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-20T21:08:36Z",
+        "checkedAt": "2026-11-22T21:49:08Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T21:08:36Z",
+        "lastSuccessAt": "2026-11-22T21:49:08Z",
         "records": 24,
         "error": null
       },
@@ -4059,9 +4070,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-20T21:08:36Z",
+        "checkedAt": "2026-11-22T21:49:08Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T21:08:36Z",
+        "lastSuccessAt": "2026-11-22T21:49:08Z",
         "records": 100,
         "error": null
       },
@@ -4070,9 +4081,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-20T21:08:37Z",
+        "checkedAt": "2026-11-22T21:49:09Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-20T21:08:37Z",
+        "lastSuccessAt": "2026-11-22T21:49:09Z",
         "records": 72,
         "error": null
       }

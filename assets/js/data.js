@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-24T00:54:51Z",
+  "updatedAt": "2026-11-24T21:14:41Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,39 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-a6fa42300c758ba26a",
+      "provider": "openai",
+      "date": "2026-11-24",
+      "category": "News",
+      "title": "Searching for distant planets with Astra",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-0d5c332987dc2cb63e",
+      "provider": "openai",
+      "date": "2026-11-24",
+      "category": "News",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-7163e385d1c659da0a",
+      "provider": "openai",
+      "date": "2026-11-24",
+      "category": "News",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-00af76bca01e35fea1",
       "provider": "openai",
@@ -3423,6 +3456,15 @@ window.MODEL_WATCH_DATA = {
   ],
   "resets": [
     {
+      "date": "2026-11-24T18:43:21Z",
+      "type": "Banked reset",
+      "title": "Codex banked reset announcement",
+      "source": "AI IDE List archive",
+      "url": "https://aiidelist.com/codex-reset#2125299248782778588",
+      "announcementUrl": "https://x.com/thsottiaux/status/2125299248782778588",
+      "note": "Archived X post. Third-party archive; confirm timing and eligibility in the original announcement."
+    },
+    {
       "date": "2026-11-12T21:59:39Z",
       "type": "Banked reset",
       "title": "Codex banked reset announcement",
@@ -4073,7 +4115,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-24T00:54:51Z",
+    "generatedAt": "2026-11-24T21:14:41Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -4081,9 +4123,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-24T00:54:49Z",
+        "checkedAt": "2026-11-24T21:14:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T00:54:49Z",
+        "lastSuccessAt": "2026-11-24T21:14:40Z",
         "records": 100,
         "error": null
       },
@@ -4092,9 +4134,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-24T00:54:49Z",
+        "checkedAt": "2026-11-24T21:14:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T00:54:49Z",
+        "lastSuccessAt": "2026-11-24T21:14:40Z",
         "records": 24,
         "error": null
       },
@@ -4103,9 +4145,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-24T00:54:49Z",
+        "checkedAt": "2026-11-24T21:14:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T00:54:49Z",
+        "lastSuccessAt": "2026-11-24T21:14:41Z",
         "records": 100,
         "error": null
       },
@@ -4114,10 +4156,10 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-24T00:54:51Z",
+        "checkedAt": "2026-11-24T21:14:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T00:54:51Z",
-        "records": 72,
+        "lastSuccessAt": "2026-11-24T21:14:41Z",
+        "records": 73,
         "error": null
       }
     ]

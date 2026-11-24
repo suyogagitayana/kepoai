@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-22T21:49:09Z",
+  "updatedAt": "2026-11-24T00:54:51Z",
   "providers": [
     {
       "id": "openai",
@@ -54,6 +54,39 @@ window.MODEL_WATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "auto-openai-00af76bca01e35fea1",
+      "provider": "openai",
+      "date": "2026-11-23",
+      "category": "News",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-90d7659cdb0a67a253",
+      "provider": "openai",
+      "date": "2026-11-23",
+      "category": "Security",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-a5a7783f47110cb221",
+      "provider": "openai",
+      "date": "2026-11-23",
+      "category": "News",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI",
+      "automatic": true
+    },
     {
       "id": "auto-openai-65ce7ff58e6a17960c",
       "provider": "openai",
@@ -4040,7 +4073,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-22T21:49:09Z",
+    "generatedAt": "2026-11-24T00:54:51Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -4048,9 +4081,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-22T21:49:08Z",
+        "checkedAt": "2026-11-24T00:54:49Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-22T21:49:08Z",
+        "lastSuccessAt": "2026-11-24T00:54:49Z",
         "records": 100,
         "error": null
       },
@@ -4059,9 +4092,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-22T21:49:08Z",
+        "checkedAt": "2026-11-24T00:54:49Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-22T21:49:08Z",
+        "lastSuccessAt": "2026-11-24T00:54:49Z",
         "records": 24,
         "error": null
       },
@@ -4070,9 +4103,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-22T21:49:08Z",
+        "checkedAt": "2026-11-24T00:54:49Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-22T21:49:08Z",
+        "lastSuccessAt": "2026-11-24T00:54:49Z",
         "records": 100,
         "error": null
       },
@@ -4081,9 +4114,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-22T21:49:09Z",
+        "checkedAt": "2026-11-24T00:54:51Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-22T21:49:09Z",
+        "lastSuccessAt": "2026-11-24T00:54:51Z",
         "records": 72,
         "error": null
       }

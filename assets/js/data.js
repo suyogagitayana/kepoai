@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-24T21:14:41Z",
+  "updatedAt": "2026-11-25T04:17:41Z",
   "providers": [
     {
       "id": "openai",
@@ -84,6 +84,28 @@ window.MODEL_WATCH_DATA = {
       "title": "How iFood scales coding agents across 15,000 repositories",
       "summary": "Official company update. Open the source for details.",
       "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-15ca7d5d28d25c6489",
+      "provider": "openai",
+      "date": "2026-11-24",
+      "category": "News",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "automatic": true
+    },
+    {
+      "id": "auto-openai-9b66c19c78f564b767",
+      "provider": "openai",
+      "date": "2026-11-24",
+      "category": "News",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "Official company update. Open the source for details.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "source": "OpenAI",
       "automatic": true
     },
@@ -4115,7 +4137,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-24T21:14:41Z",
+    "generatedAt": "2026-11-25T04:17:41Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -4123,9 +4145,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-24T21:14:40Z",
+        "checkedAt": "2026-11-25T04:17:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T21:14:40Z",
+        "lastSuccessAt": "2026-11-25T04:17:40Z",
         "records": 100,
         "error": null
       },
@@ -4134,9 +4156,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-24T21:14:40Z",
+        "checkedAt": "2026-11-25T04:17:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T21:14:40Z",
+        "lastSuccessAt": "2026-11-25T04:17:40Z",
         "records": 24,
         "error": null
       },
@@ -4145,9 +4167,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-24T21:14:41Z",
+        "checkedAt": "2026-11-25T04:17:40Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T21:14:41Z",
+        "lastSuccessAt": "2026-11-25T04:17:40Z",
         "records": 100,
         "error": null
       },
@@ -4156,9 +4178,9 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-24T21:14:41Z",
+        "checkedAt": "2026-11-25T04:17:41Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-24T21:14:41Z",
+        "lastSuccessAt": "2026-11-25T04:17:41Z",
         "records": 73,
         "error": null
       }

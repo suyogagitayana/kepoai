@@ -1,7 +1,7 @@
 /* Public content collected at build time. No visitor data is stored. */
 window.MODEL_WATCH_DATA = {
   "version": 1,
-  "updatedAt": "2026-11-25T04:17:41Z",
+  "updatedAt": "2026-11-26T09:33:30Z",
   "providers": [
     {
       "id": "openai",
@@ -3478,6 +3478,15 @@ window.MODEL_WATCH_DATA = {
   ],
   "resets": [
     {
+      "date": "2026-11-26T07:26:16Z",
+      "type": "Banked reset",
+      "title": "Codex banked reset announcement",
+      "source": "AI IDE List archive",
+      "url": "https://aiidelist.com/codex-reset#2125853628250599730",
+      "announcementUrl": "https://x.com/thsottiaux/status/2125853628250599730",
+      "note": "Archived X post. Third-party archive; confirm timing and eligibility in the original announcement."
+    },
+    {
       "date": "2026-11-24T18:43:21Z",
       "type": "Banked reset",
       "title": "Codex banked reset announcement",
@@ -4137,7 +4146,7 @@ window.MODEL_WATCH_DATA = {
   ],
   "contentMeta": {
     "version": 1,
-    "generatedAt": "2026-11-25T04:17:41Z",
+    "generatedAt": "2026-11-26T09:33:30Z",
     "intervalMinutes": 60,
     "sources": [
       {
@@ -4145,9 +4154,9 @@ window.MODEL_WATCH_DATA = {
         "label": "OpenAI News",
         "url": "https://openai.com/news/rss.xml",
         "kind": "official",
-        "checkedAt": "2026-11-25T04:17:40Z",
+        "checkedAt": "2026-11-26T09:33:29Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-25T04:17:40Z",
+        "lastSuccessAt": "2026-11-26T09:33:29Z",
         "records": 100,
         "error": null
       },
@@ -4156,9 +4165,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Anthropic News",
         "url": "https://www.anthropic.com/news",
         "kind": "official",
-        "checkedAt": "2026-11-25T04:17:40Z",
+        "checkedAt": "2026-11-26T09:33:29Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-25T04:17:40Z",
+        "lastSuccessAt": "2026-11-26T09:33:29Z",
         "records": 24,
         "error": null
       },
@@ -4167,9 +4176,9 @@ window.MODEL_WATCH_DATA = {
         "label": "Gemini API release notes",
         "url": "https://aistudio.google.com/docs/changelog.md",
         "kind": "official",
-        "checkedAt": "2026-11-25T04:17:40Z",
+        "checkedAt": "2026-11-26T09:33:29Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-25T04:17:40Z",
+        "lastSuccessAt": "2026-11-26T09:33:29Z",
         "records": 100,
         "error": null
       },
@@ -4178,10 +4187,10 @@ window.MODEL_WATCH_DATA = {
         "label": "AI IDE List reset archive",
         "url": "https://aiidelist.com/codex-reset",
         "kind": "archive",
-        "checkedAt": "2026-11-25T04:17:41Z",
+        "checkedAt": "2026-11-26T09:33:30Z",
         "status": "ok",
-        "lastSuccessAt": "2026-11-25T04:17:41Z",
-        "records": 73,
+        "lastSuccessAt": "2026-11-26T09:33:30Z",
+        "records": 74,
         "error": null
       }
     ]
